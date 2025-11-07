@@ -20,9 +20,9 @@ You can use the website to generate badges: https://shields.io/
 
 - 👨🏽‍💻 I’m currently working on [CV app](https://github.com/ccwt3/CV-generator);
 - 🌱 I’m currently learning NodeJs and React; 
-- 🤔 I’m looking for help with Life in general;
+- 🤔 I’m looking for some job to gain real life experience;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I'm A2 - B1 in greek;
+- ⚡️ Fun-Fact: I'm A2 in greek;
 
 **Languages and Tools:** 
 
@@ -38,10 +38,10 @@ You can use the website to generate badges: https://shields.io/
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21~old.svg"></code>
   <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
 
   <br />
 </p>
