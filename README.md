@@ -18,7 +18,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"/>
 
-- 👨🏽‍💻 I’m currently working on [CV app](https://github.com/ccwt3/CV-generator);
+- 👨🏽‍💻 I’m currently working on [File Uploader](https://github.com/ccwt3/File-uploader);
 - 🌱 I’m currently learning NodeJs and React; 
 - 🤔 I’m looking for some job to gain real life experience;
 - 💬 Ask me about anything, I am happy to help;
