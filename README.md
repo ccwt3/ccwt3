@@ -1,46 +1,45 @@
-<!-- WAIT A MINUTE, I obviously copied this readme from someone else, heres the original repo from where i got this: https://github.com/onimur/onimur/blob/master/README.md-->
-## Hey there! :D
+<h1 align="center">Hey, I'm Omar 👋</h1>
 
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
+<p align="center">
+  Full-stack developer (TypeScript · Next.js · PostgreSQL) — I like shipping things end to end, from database schema to deployed app.
+</p>
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ccwt3)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oate/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/ccwt3_/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](omartlapa007@gmail.com)
+<p align="center">
+  <a href="https://github.com/ccwt3"><img src="https://img.shields.io/badge/-GitHub-000?style=flat&logo=Github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/oate/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/ccwt3_/"><img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:omartlapa007@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail" /></a>
+</p>
 
-&nbsp;
+---
 
-<!-- Talking about you -->
-**My stuff:**
+### About me
 
-<!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"/>
+<img width="45%" align="right" alt="header" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"/>
 
-- 👨🏽‍💻 I’m currently working on [Zvenira](https://github.com/ccwt3/Zvenira);
-- 🌱 I’m currently learning NodeJs and React; 
-- 🤔 I’m looking for some job to gain real life experience;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I'm A2 in greek;
+- 💻 Computer Systems Engineering student, building production-grade apps on the side.
+- ⚙️ Backend-leaning: I care about data modeling, auth, and catching edge cases before they hit production.
+- 🧰 Working mostly with TypeScript, Next.js/React, Node/Express, and PostgreSQL (Supabase, Prisma).
+- 🤝 Open to junior / internship roles — remote-friendly, English C1.
+- ♟️ Off-screen: competitive [chess](https://lichess.org/@/Cacawat3).
 
-**Languages and Tools:** 
+### Featured projects
+
+- **[Motorefacciones](https://github.com/ccwt3/sm-ponce)** — Production motorcycle-parts inventory system. Next.js + Supabase, Postgres Row-Level Security, Google OAuth, debounced search with LRU caching and optimistic UI. → [Live](https://motorefacciones.reicot.dev)
+- **[Silly Picker](https://github.com/ccwt3/youtube-picker)** — YouTube curation tool with an automated content pipeline (Gemini API generates queries, YouTube Data API fetches, results normalized into Postgres). → [Live](https://youtube-picker.vercel.app)
+- **[Blog API](https://github.com/ccwt3/blog-API)** — REST backend for a multi-role blog (User/Author/Admin) with refresh-token rotation, Prisma/PostgreSQL, bcrypt, and input validation.
+- **[Zephyriov](https://github.com/ccwt3/Zephyriov)** — App designed to take advantage of Spaced Repetition with opening theory study in chess.
+
+### Tech & tools
 
 <p>
-  <a href="https://github.com/onimur/handle-path-oz">
-    <img width="55%" align="right" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=ccwt3&show_icons=true&hide_border=true" />
-  </a>
-
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
+  <img width="12%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" />
+  <img width="12%" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg" />
+  <img width="12%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" />
   <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <br />
+  <img width="12%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" />
+  <img width="12%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" />
+  <img width="12%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" />
 </p>
+
+<img width="48%" alt="Omar's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ccwt3&show_icons=true&hide_border=true" />
