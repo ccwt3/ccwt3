@@ -30,16 +30,18 @@
 - **[Blog API](https://github.com/ccwt3/blog-API)** — REST backend for a multi-role blog (User/Author/Admin) with refresh-token rotation, Prisma/PostgreSQL, bcrypt, and input validation.
 - **[Zephyriov](https://github.com/ccwt3/Zephyriov)** — App designed to take advantage of Spaced Repetition with opening theory study in chess.
 
-### Tech & tools
-
-<p>
-  <img width="12%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" />
-  <img width="12%" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg" />
-  <img width="12%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" />
-  <br />
-  <img width="12%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" />
-  <img width="12%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" />
-  <img width="12%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" />
+### Current TechStack
+<p align=center>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Express-js?style=for-the-badge&logo=express&logoColor=5FA04E&labelColor=black&color=5FA04E">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Typescript-s?style=for-the-badge&logo=typescript&logoColor=blue&labelColor=black&color=2495FF">
+  <img alt="Static Badge" src="https://img.shields.io/badge/NextJs-s?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=black&color=000000">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Supabase-s?style=for-the-badge&logo=supabase&logoColor=3FCF8E&labelColor=black&color=3FCF8E">
+  <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-s?style=for-the-badge&logo=postgresql&logoColor=4169E1&labelColor=black&color=4169E1">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Prisma-s?style=for-the-badge&logo=prisma&logoColor=2D3748&labelColor=black&color=2D3748">
 </p>
 
-<img width="48%" alt="Omar's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ccwt3&show_icons=true&hide_border=true" />
+### Learning by Doing
+<p align=center>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Rust-rs?style=for-the-badge&logo=rust&logoColor=B7410E&labelColor=black&color=B7410E">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Flutter-d?style=for-the-badge&logo=flutter&logoColor=02569B&labelColor=black&color=02569B">
+</p>
