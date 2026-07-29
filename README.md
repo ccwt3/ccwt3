@@ -29,7 +29,7 @@
 - **[Blog API](https://github.com/ccwt3/blog-API)** — REST backend for a multi-role blog (User/Author/Admin) with refresh-token rotation, Prisma/PostgreSQL, bcrypt, and input validation.
 - **[Zephyriov](https://github.com/ccwt3/Zephyriov)** — App designed to take advantage of Spaced Repetition with opening theory study in chess.
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:My Stats-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
@@ -109,7 +109,7 @@ ShaderLab                1 repo              █░░░░░░░░░░�
 
 
  Last Updated on 29/07/2026 16:21:15 UTC
-<!--END_SECTION:waka-->
+<!--END_SECTION:My Stats-->
 
 ### Current TechStack
 <p align=center>
