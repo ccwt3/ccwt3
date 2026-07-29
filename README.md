@@ -1,14 +1,13 @@
 <h1 align="center">Hey, I'm Omar 👋</h1>
 
 <p align="center">
-  Full-stack developer (TypeScript · Next.js · PostgreSQL) — I like shipping things end to end, from database schema to deployed app.
+  Current Full-stack developer (TypeScript · Next.js · PostgreSQL) — I like building cool and useful stuff.
 </p>
 
 <p align="center">
   <a href="https://github.com/ccwt3"><img src="https://img.shields.io/badge/-GitHub-000?style=flat&logo=Github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/oate/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/ccwt3_/"><img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:omartlapa007@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
 ---
@@ -17,9 +16,9 @@
 
 <img width="45%" align="right" alt="header" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"/>
 
-- 💻 Computer Systems Engineering student, building production-grade apps on the side.
-- ⚙️ Backend-leaning: I care about data modeling, auth, and catching edge cases before they hit production.
-- 🧰 Working mostly with TypeScript, Next.js/React, Node/Express, and PostgreSQL (Supabase, Prisma).
+- 💻 Computer Systems Engineering student, Building my own projects on the side.
+- ⚙️ Backend-leaning: I care about data modeling, security (auth) and building the logic behind the products.
+- 🧰 Currently working on [Zvenira](https://github.com/ccwt3/Zvenira).
 - 🤝 Open to junior / internship roles — remote-friendly, English C1.
 - ♟️ Off-screen: competitive [chess](https://lichess.org/@/Cacawat3).
 
