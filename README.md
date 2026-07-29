@@ -29,6 +29,9 @@
 - **[Blog API](https://github.com/ccwt3/blog-API)** — REST backend for a multi-role blog (User/Author/Admin) with refresh-token rotation, Prisma/PostgreSQL, bcrypt, and input validation.
 - **[Zephyriov](https://github.com/ccwt3/Zephyriov)** — App designed to take advantage of Spaced Repetition with opening theory study in chess.
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### Current TechStack
 <p align=center>
   <img alt="Static Badge" src="https://img.shields.io/badge/Express-js?style=for-the-badge&logo=express&logoColor=5FA04E&labelColor=black&color=5FA04E">
