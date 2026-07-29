@@ -14,7 +14,7 @@
 
 ### About me
 
-<img width="45%" align="right" alt="header" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"/>
+<img width="45%" align="right" alt="header" src="ffe39a6295d9f5cdccf8c4dacca621f5.jpg"/>
 
 - 💻 Computer Systems Engineering student, Building my own projects on the side.
 - ⚙️ Backend-leaning: I care about data modeling, security (auth) and building the logic behind the products.
