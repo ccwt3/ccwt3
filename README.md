@@ -30,6 +30,85 @@
 - **[Zephyriov](https://github.com/ccwt3/Zephyriov)** — App designed to take advantage of Spaced Repetition with opening theory study in chess.
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 38.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 184 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 38 Public Repositories 
+ > 
+> 🔑 10 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                398 commits         ████████░░░░░░░░░░░░░░░░░   31.22 % 
+🌆 Daytime                509 commits         ██████████░░░░░░░░░░░░░░░   39.92 % 
+🌃 Evening                344 commits         ███████░░░░░░░░░░░░░░░░░░   26.98 % 
+🌙 Night                  24 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   263 commits         █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
+Tuesday                  108 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+Wednesday                190 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+Thursday                 242 commits         █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
+Friday                   157 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+Saturday                 155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+Sunday                   160 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Mexico_City
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+TypeScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+PLpgSQL                  1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+ShaderLab                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/ccwt3/ccwt3/main/assets/bar_graph.png)
+
+
+ Last Updated on 29/07/2026 16:21:15 UTC
 <!--END_SECTION:waka-->
 
 ### Current TechStack
