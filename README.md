@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Omar 👋</h1>
+<h1 align="center">Hey, I'm Tlapa 👋</h1>
 
 <p align="center">
   Current Full-stack developer (TypeScript · Next.js · PostgreSQL) — I like building cool and useful stuff.
@@ -23,9 +23,12 @@
 - ♟️ Off-screen: competitive [chess](https://lichess.org/@/Cacawat3).
 
 ### Featured projects
-- **[Motorefacciones](https://github.com/ccwt3/sm-ponce)** — Production motorcycle-parts inventory system. Next.js + Supabase, Postgres Row-Level Security, Google OAuth, debounced search with LRU caching and optimistic UI. → [Live](https://motorefacciones.reicot.dev)
-- **[Silly Picker](https://github.com/ccwt3/youtube-picker)** — YouTube curation tool with an automated content pipeline (Gemini API generates queries, YouTube Data API fetches, results normalized into Postgres). → [Live](https://youtube-picker.vercel.app)
-- **[Blog API](https://github.com/ccwt3/blog-API)** — REST backend for a multi-role blog (User/Author/Admin) with refresh-token rotation, Prisma/PostgreSQL, bcrypt, and input validation.
+- **[Motorefacciones](https://github.com/ccwt3/sm-ponce)**: Production motorcycle-parts inventory system. Next.js + Supabase, Postgres Row-Level Security, Google OAuth, debounced search with LRU caching and optimistic UI. → [Live](https://motorefacciones.reicot.dev)
+  
+- **[Silly Picker](https://github.com/ccwt3/youtube-picker)**: YouTube curation tool with an automated content pipeline (Gemini API generates queries, YouTube Data API fetches, results normalized into Postgres). → [Live](https://youtube-picker.vercel.app)
+  
+- **[Blog API](https://github.com/ccwt3/blog-API)**: REST backend for a multi-role blog (User/Author/Admin) with refresh-token rotation, Prisma/PostgreSQL, bcrypt, and input validation.
+
 - **[Zephyriov](https://github.com/ccwt3/Zephyriov)** — App designed to take advantage of Spaced Repetition with opening theory study in chess.
 
 ### Current TechStack
