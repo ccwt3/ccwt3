@@ -48,6 +48,8 @@
 </p>
 
 <!--START_SECTION:My Stats-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 38.7 kB Used in GitHub's Storage 
@@ -98,5 +100,5 @@ ShaderLab                1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/07/2026 14:20:19 UTC
+ Last Updated on 30/07/2026 14:37:57 UTC
 <!--END_SECTION:My Stats-->
