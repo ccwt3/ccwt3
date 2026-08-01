@@ -54,7 +54,7 @@
 
 > 📦 38.7 kB Used in GitHub's Storage 
  > 
-> 🏆 193 Contributions in the Year 2026
+> 🏆 194 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -78,28 +78,36 @@
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-Rust                     2 hrs 51 mins       █████████████████████████   99.87 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Dart                     3 hrs 54 mins       █████████████░░░░░░░░░░░░   50.42 % 
+Rust                     3 hrs 48 mins       ████████████░░░░░░░░░░░░░   48.98 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-Neovim                   2 hrs 51 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 57 mins       █████████████░░░░░░░░░░░░   50.98 % 
+Neovim                   3 hrs 48 mins       ████████████░░░░░░░░░░░░░   49.02 % 
 
 🐱‍💻 Projects: 
-Zvenira                  2 hrs 51 mins       █████████████████████████   100.00 % 
+Zvenira                  3 hrs 48 mins       ████████████░░░░░░░░░░░░░   49.02 % 
+lichess-mobile           3 hrs 41 mins       ████████████░░░░░░░░░░░░░   47.62 % 
+learningDart             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+game                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+network                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-TypeScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-PLpgSQL                  1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-ShaderLab                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+TypeScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+PLpgSQL                  1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+ShaderLab                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 ```
 
 
 
 
- Last Updated on 31/07/2026 20:01:26 UTC
+ Last Updated on 01/08/2026 19:42:14 UTC
 <!--END_SECTION:My Stats-->
