@@ -48,7 +48,7 @@
 </p>
 
 <!--START_SECTION:My Stats-->
-![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2036%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2022%20mins-blue?style=flat)
 
@@ -56,7 +56,7 @@
 
 > 📦 38.7 kB Used in GitHub's Storage 
  > 
-> 🏆 199 Contributions in the Year 2026
+> 🏆 202 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -67,9 +67,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                407 commits         ████████░░░░░░░░░░░░░░░░░   31.55 % 
-🌆 Daytime                513 commits         ██████████░░░░░░░░░░░░░░░   39.77 % 
-🌃 Evening                346 commits         ███████░░░░░░░░░░░░░░░░░░   26.82 % 
+🌞 Morning                408 commits         ████████░░░░░░░░░░░░░░░░░   31.55 % 
+🌆 Daytime                515 commits         ██████████░░░░░░░░░░░░░░░   39.83 % 
+🌃 Evening                346 commits         ███████░░░░░░░░░░░░░░░░░░   26.76 % 
 🌙 Night                  24 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
 ```
 
@@ -80,20 +80,20 @@
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-Rust                     12 hrs 35 mins      ████████████████████████░   97.76 % 
-Lua                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-Dart                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Rust                     15 hrs 38 mins      █████████████████████████   98.19 % 
+Lua                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Dart                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Neovim                   12 hrs 52 mins      █████████████████████████   99.92 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Neovim                   15 hrs 55 mins      █████████████████████████   99.94 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🐱‍💻 Projects: 
-Zvenira                  12 hrs 37 mins      █████████████████████████   98.04 % 
-Unknown Project          14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-lichess-mobile           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Zvenira                  15 hrs 40 mins      █████████████████████████   98.41 % 
+Unknown Project          14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+lichess-mobile           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -109,5 +109,5 @@ ShaderLab                1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/08/2026 19:08:21 UTC
+ Last Updated on 09/08/2026 19:11:33 UTC
 <!--END_SECTION:My Stats-->
