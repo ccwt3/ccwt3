@@ -80,19 +80,20 @@
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-Rust                     15 hrs 38 mins      █████████████████████████   98.19 % 
-Lua                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+Rust                     16 hrs 13 mins      ████████████████████████░   97.82 % 
+Lua                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 Dart                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Neovim                   15 hrs 55 mins      █████████████████████████   99.94 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Neovim                   16 hrs 15 mins      █████████████████████████   98.05 % 
+VS Code                  19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
 
 🐱‍💻 Projects: 
-Zvenira                  15 hrs 40 mins      █████████████████████████   98.41 % 
-Unknown Project          14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+Zvenira                  16 hrs 12 mins      ████████████████████████░   97.73 % 
+algorithms               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Unknown Project          10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 lichess-mobile           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 ```
 
@@ -109,5 +110,5 @@ ShaderLab                1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/08/2026 19:11:33 UTC
+ Last Updated on 10/08/2026 19:30:20 UTC
 <!--END_SECTION:My Stats-->
