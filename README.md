@@ -48,7 +48,7 @@
 </p>
 
 <!--START_SECTION:My Stats-->
-![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2041%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2041%20mins-blue?style=flat)
 
@@ -56,13 +56,13 @@
 
 > 📦 38.7 kB Used in GitHub's Storage 
  > 
-> 🏆 203 Contributions in the Year 2026
+> 🏆 204 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 38 Public Repositories 
  > 
-> 🔑 10 Private Repositories 
+> 🔑 11 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -80,20 +80,20 @@
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-Rust                     12 hrs 9 mins       ██████████████████████░░░   89.75 % 
-Other                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-kitty                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
-JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-Lua                      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+Rust                     13 hrs 5 mins       ███████████████████████░░   90.13 % 
+Other                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+kitty                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+Lua                      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 
 🔥 Editors: 
-Neovim                   13 hrs 13 mins      ████████████████████████░   97.62 % 
-VS Code                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Neovim                   14 hrs 11 mins      ████████████████████████░   97.78 % 
+VS Code                  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 
 🐱‍💻 Projects: 
-Zvenira                  12 hrs 6 mins       ██████████████████████░░░   89.37 % 
-Unknown Project          1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
-algorithms               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+Zvenira                  13 hrs 2 mins       ██████████████████████░░░   89.78 % 
+Unknown Project          1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+algorithms               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 lichess-mobile           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 LazyVim                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
@@ -111,5 +111,5 @@ ShaderLab                1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/08/2026 19:34:19 UTC
+ Last Updated on 14/08/2026 19:27:49 UTC
 <!--END_SECTION:My Stats-->
