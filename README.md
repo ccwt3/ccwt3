@@ -48,9 +48,9 @@
 </p>
 
 <!--START_SECTION:My Stats-->
-![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2035%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2041%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2042%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -80,21 +80,19 @@
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-Rust                     10 hrs 34 mins      ██████████████████████░░░   88.26 % 
-Other                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-kitty                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-Lua                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Rust                     10 hrs 20 mins      ██████████████████████░░░   89.18 % 
+Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+kitty                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+Lua                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 
 🔥 Editors: 
-Neovim                   11 hrs 34 mins      ████████████████████████░   96.56 % 
-VS Code                  24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+Neovim                   11 hrs 36 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Zvenira                  10 hrs 31 mins      ██████████████████████░░░   87.84 % 
-Unknown Project          1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-algorithms               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-Desktop                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Zvenira                  10 hrs 22 mins      ██████████████████████░░░   89.46 % 
+Unknown Project          1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+config                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 LazyVim                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
@@ -111,5 +109,5 @@ ShaderLab                1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2026 18:54:27 UTC
+ Last Updated on 17/08/2026 19:07:52 UTC
 <!--END_SECTION:My Stats-->
