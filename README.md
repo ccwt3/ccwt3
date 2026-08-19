@@ -48,7 +48,7 @@
 </p>
 
 <!--START_SECTION:My Stats-->
-![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%2036%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2042%20mins-blue?style=flat)
 
@@ -80,20 +80,19 @@
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-Rust                     11 hrs 41 mins      ███████████████████████░░   90.56 % 
-Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-kitty                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-Lua                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Rust                     16 hrs 8 mins       ███████████████████████░░   93.06 % 
+kitty                    18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+Lua                      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 
 🔥 Editors: 
-Neovim                   12 hrs 54 mins      █████████████████████████   100.00 % 
+Neovim                   17 hrs 20 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Zvenira                  11 hrs 43 mins      ███████████████████████░░   90.80 % 
-Unknown Project          1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-config                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-LazyVim                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Zvenira                  16 hrs 9 mins       ███████████████████████░░   93.13 % 
+Unknown Project          1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+config                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -109,5 +108,5 @@ ShaderLab                1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/08/2026 19:07:33 UTC
+ Last Updated on 19/08/2026 19:02:12 UTC
 <!--END_SECTION:My Stats-->
