@@ -80,19 +80,18 @@
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-Rust                     16 hrs 8 mins       ███████████████████████░░   93.06 % 
-kitty                    18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
-Lua                      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+Rust                     18 hrs 14 mins      █████████████████████████   98.80 % 
+Lua                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+INI                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🔥 Editors: 
-Neovim                   17 hrs 20 mins      █████████████████████████   100.00 % 
+Neovim                   18 hrs 28 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Zvenira                  16 hrs 9 mins       ███████████████████████░░   93.13 % 
-Unknown Project          1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-config                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Zvenira                  18 hrs 15 mins      █████████████████████████   98.88 % 
+config                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -108,5 +107,5 @@ ShaderLab                1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/08/2026 19:02:12 UTC
+ Last Updated on 20/08/2026 19:10:59 UTC
 <!--END_SECTION:My Stats-->
