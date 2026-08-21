@@ -48,7 +48,7 @@
 </p>
 
 <!--START_SECTION:My Stats-->
-![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%2042%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2042%20mins-blue?style=flat)
 
@@ -56,7 +56,7 @@
 
 > 📦 38.8 kB Used in GitHub's Storage 
  > 
-> 🏆 210 Contributions in the Year 2026
+> 🏆 211 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -67,9 +67,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                412 commits         ████████░░░░░░░░░░░░░░░░░   31.72 % 
-🌆 Daytime                516 commits         ██████████░░░░░░░░░░░░░░░   39.72 % 
-🌃 Evening                347 commits         ███████░░░░░░░░░░░░░░░░░░   26.71 % 
+🌞 Morning                413 commits         ████████░░░░░░░░░░░░░░░░░   31.77 % 
+🌆 Daytime                516 commits         ██████████░░░░░░░░░░░░░░░   39.69 % 
+🌃 Evening                347 commits         ███████░░░░░░░░░░░░░░░░░░   26.69 % 
 🌙 Night                  24 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 ```
 
@@ -80,18 +80,17 @@
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-Rust                     18 hrs 14 mins      █████████████████████████   98.80 % 
-Lua                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-INI                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Rust                     15 hrs 49 mins      █████████████████████████   98.89 % 
+Lua                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-Neovim                   18 hrs 28 mins      █████████████████████████   100.00 % 
+Neovim                   16 hrs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Zvenira                  18 hrs 15 mins      █████████████████████████   98.88 % 
-config                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Zvenira                  15 hrs 50 mins      █████████████████████████   98.98 % 
+config                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -107,5 +106,5 @@ ShaderLab                1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2026 19:10:59 UTC
+ Last Updated on 21/08/2026 19:07:08 UTC
 <!--END_SECTION:My Stats-->
