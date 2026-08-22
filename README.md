@@ -48,15 +48,15 @@
 </p>
 
 <!--START_SECTION:My Stats-->
-![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%2057%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2042%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2011%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 38.8 kB Used in GitHub's Storage 
  > 
-> 🏆 211 Contributions in the Year 2026
+> 🏆 213 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -67,10 +67,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                413 commits         ████████░░░░░░░░░░░░░░░░░   31.77 % 
-🌆 Daytime                516 commits         ██████████░░░░░░░░░░░░░░░   39.69 % 
-🌃 Evening                347 commits         ███████░░░░░░░░░░░░░░░░░░   26.69 % 
-🌙 Night                  24 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+🌞 Morning                414 commits         ████████░░░░░░░░░░░░░░░░░   31.80 % 
+🌆 Daytime                516 commits         ██████████░░░░░░░░░░░░░░░   39.63 % 
+🌃 Evening                347 commits         ███████░░░░░░░░░░░░░░░░░░   26.65 % 
+🌙 Night                  25 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 ```
 
 
@@ -80,31 +80,33 @@
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-Rust                     15 hrs 49 mins      █████████████████████████   98.89 % 
-Lua                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Rust                     16 hrs 5 mins       █████████████████████████   98.86 % 
+Lua                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Neovim                   16 hrs              █████████████████████████   100.00 % 
+Neovim                   16 hrs 17 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Zvenira                  15 hrs 50 mins      █████████████████████████   98.98 % 
-config                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Zvenira                  16 hrs 6 mins       █████████████████████████   98.94 % 
+config                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-TypeScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-PLpgSQL                  1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-ShaderLab                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+TypeScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+PLpgSQL                  1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 ```
 
 
 
 
- Last Updated on 21/08/2026 19:07:08 UTC
+ Last Updated on 22/08/2026 18:56:42 UTC
 <!--END_SECTION:My Stats-->
