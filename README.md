@@ -48,7 +48,7 @@
 </p>
 
 <!--START_SECTION:My Stats-->
-![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%204%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2011%20mins-blue?style=flat)
 
@@ -80,19 +80,19 @@
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-Rust                     16 hrs 5 mins       █████████████████████████   98.86 % 
-Lua                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Rust                     14 hrs 46 mins      █████████████████████████   98.42 % 
+Lua                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+kitty                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-Neovim                   16 hrs 17 mins      █████████████████████████   100.00 % 
+Neovim                   15 hrs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Zvenira                  16 hrs 6 mins       █████████████████████████   98.94 % 
-config                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Zvenira                  14 hrs 47 mins      █████████████████████████   98.51 % 
+config                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -108,5 +108,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/08/2026 18:56:42 UTC
+ Last Updated on 23/08/2026 18:56:14 UTC
 <!--END_SECTION:My Stats-->
