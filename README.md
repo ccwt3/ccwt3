@@ -80,19 +80,19 @@
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-Rust                     14 hrs 46 mins      █████████████████████████   98.42 % 
-Lua                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-kitty                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Rust                     11 hrs 17 mins      █████████████████████████   98.27 % 
+Lua                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+kitty                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Neovim                   15 hrs              █████████████████████████   100.00 % 
+Neovim                   11 hrs 29 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Zvenira                  14 hrs 47 mins      █████████████████████████   98.51 % 
-config                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Zvenira                  11 hrs 16 mins      █████████████████████████   98.11 % 
+config                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -108,5 +108,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/08/2026 18:56:14 UTC
+ Last Updated on 24/08/2026 19:10:38 UTC
 <!--END_SECTION:My Stats-->
