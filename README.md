@@ -48,9 +48,9 @@
 </p>
 
 <!--START_SECTION:My Stats-->
-![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2011%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2046%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -80,19 +80,22 @@
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-Rust                     9 hrs 57 mins       █████████████████████████   98.04 % 
-Lua                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-kitty                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Rust                     6 hrs 28 mins       ████████████████████████░   96.51 % 
+Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+C++                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+kitty                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Neovim                   10 hrs 9 mins       █████████████████████████   100.00 % 
+Neovim                   6 hrs 32 mins       ████████████████████████░   97.59 % 
+Codex CLI                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 
 🐱‍💻 Projects: 
-Zvenira                  9 hrs 56 mins       ████████████████████████░   97.86 % 
-config                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Zvenira                  6 hrs 28 mins       ████████████████████████░   96.51 % 
+cacawatin                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+uni                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+config                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -108,5 +111,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/08/2026 19:08:49 UTC
+ Last Updated on 26/08/2026 20:25:03 UTC
 <!--END_SECTION:My Stats-->
